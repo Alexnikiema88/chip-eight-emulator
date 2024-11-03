@@ -1,1 +1,1 @@
-# chip-eight-emulator
+# chip-eight-emulatorThis is a hobby project!
